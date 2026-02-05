@@ -26,6 +26,24 @@ Then open **http://localhost:3000**
 
 ---
 
+## 📖 How to Use
+
+1. **Paste a URL or text** — Drop in any article, YouTube video, PDF link, or raw text
+2. **Click "Get the Gist"** — AI extracts and analyzes the content
+3. **Navigate layers** — Use ←/→ arrows (or keyboard) to go deeper:
+   - **Core**: One sentence essence
+   - **Key Points**: 2-3 sentence summary
+   - **In Detail**: Paragraph with nuance
+   - **Full Summary**: Comprehensive breakdown
+4. **Explore tabs** — Switch between Summary, Structure, Counter-Argument, and Steelman views
+5. **Copy or share** — Grab the text for notes, Slack, etc.
+
+**Keyboard shortcuts:**
+- `←` / `→` — Navigate layers
+- `1-4` — Jump to specific layer
+
+---
+
 ### Manual Setup
 
 ```bash
